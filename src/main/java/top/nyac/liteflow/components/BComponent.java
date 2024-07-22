@@ -1,4 +1,4 @@
-package top.nyac.liteflow.components.parallel;
+package top.nyac.liteflow.components;
 
 import com.yomahub.liteflow.annotation.LiteflowComponent;
 import com.yomahub.liteflow.core.NodeComponent;
